@@ -6,3 +6,4 @@ D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.C
 D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.csproj.CoreCompileInputs.cache
 D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.dll
 D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.pdb
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.csproj.AssemblyReference.cache
