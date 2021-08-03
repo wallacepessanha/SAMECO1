@@ -1,0 +1,5 @@
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.DataBase\bin\Debug\SMC.DataBase.dacpac
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.DataBase\bin\Debug\SMC.DataBase.dll
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.DataBase\bin\Debug\SMC.DataBase.pdb
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.DataBase\obj\Debug\SMC.DataBase.dll
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.DataBase\obj\Debug\SMC.DataBase.pdb

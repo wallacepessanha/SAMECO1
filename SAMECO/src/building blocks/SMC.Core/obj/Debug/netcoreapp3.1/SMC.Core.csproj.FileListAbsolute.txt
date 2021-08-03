@@ -1,0 +1,8 @@
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\bin\Debug\netcoreapp3.1\SMC.Core.deps.json
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\bin\Debug\netcoreapp3.1\SMC.Core.dll
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\bin\Debug\netcoreapp3.1\SMC.Core.pdb
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.AssemblyInfoInputs.cache
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.AssemblyInfo.cs
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.csproj.CoreCompileInputs.cache
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.dll
+D:\Git\SAMECO1\SAMECO\src\building blocks\SMC.Core\obj\Debug\netcoreapp3.1\SMC.Core.pdb

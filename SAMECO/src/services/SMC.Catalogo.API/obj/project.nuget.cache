@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dm/xe0S8F8WwfBWkijkxyRmTt/kqPUhEjsuQ6fynDb9LDiO9zi35h/bMxItRGOq3ucU5isA94jo9ayq6kv4zqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\SAMECO1\\SAMECO\\src\\services\\SMC.Catalogo.API\\SMC.Catalogo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\badbr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

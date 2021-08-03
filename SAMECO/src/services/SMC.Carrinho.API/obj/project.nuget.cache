@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1HeFaN5Jj2BPpNwsynE2WiZ+HiYpjMzKyQ2+BUEocp8u8nHjTmGu1K9m6zg3z14yBMp/hBneUfLpUGLQdKHtVg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\SAMECO1\\SAMECO\\src\\services\\SMC.Carrinho.API\\SMC.Carrinho.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\badbr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
